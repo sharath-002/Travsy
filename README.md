@@ -6,3 +6,10 @@ The result of this tour guide is the user can detail information about tourist a
 
 Tourist attraction information and directions with minimal GPS accuracy error. The speed of the application in determining the user position depends on strong network signal and the condition of the surroundings
 
+Team Name: Traum
+
+Team details:
+Shwetaharini S (Team Leader)
+Sharath P
+Shivanivarsha K
+Suman M
